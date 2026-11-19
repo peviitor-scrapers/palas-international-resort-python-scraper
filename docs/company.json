@@ -1,0 +1,17 @@
+{
+  "id": "26293850",
+  "cui": "26293850",
+  "company": "PALAS INTERNATIONAL RESORT SRL",
+  "brand": "Palas International Resort",
+  "status": "activ",
+  "location": [
+    "Iasi"
+  ],
+  "website": [
+    "https://www.hotelinternationaliasi.ro"
+  ],
+  "career": [
+    "https://mediere.anofm.ro/app/module/mediere/jobs"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/palas-international-resort-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
