@@ -8,7 +8,7 @@
 | Brand | Palas International Resort |
 | Website | https://www.hotelinternationaliasi.ro |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-20 |
+| LastScraped | 2026-11-21 |
 
 ## Jobs (13)
 
@@ -99,4 +99,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-20T14:42:03Z_
+_Generated at 2026-11-21T13:58:25Z_
