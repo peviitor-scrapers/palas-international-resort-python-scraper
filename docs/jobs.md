@@ -8,9 +8,9 @@
 | Brand | Palas International Resort |
 | Website | https://www.hotelinternationaliasi.ro |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-24 |
+| LastScraped | 2026-11-25 |
 
-## Jobs (13)
+## Jobs (11)
 
 ### CURIER
 
@@ -26,18 +26,6 @@
 - **Location**: IASI
 - **Work Mode**: on-site
 - **Tags**: restaurante, absolventi, cu-norma-intreaga, cu-durata-nedeterminata, sediu, profesional-scoala-profesionala, experienta-medie-intre-3-si-5-ani
-- **Status**: scraped
-
-### Curier
-
-- **URL**: [https://www.jobrapid.ro/locuri-de-munca/curier-in-iasi-1733390.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-iasi-1733390.html)
-- **Location**: Iaşi
-- **Status**: scraped
-
-### Lucrator Bucatarie (spalator Vase Mari)
-
-- **URL**: [https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-iasi-1728294.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-iasi-1728294.html)
-- **Location**: Iaşi
 - **Status**: scraped
 
 ### CURIER
@@ -99,4 +87,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-24T16:46:49Z_
+_Generated at 2026-11-25T16:35:57Z_
